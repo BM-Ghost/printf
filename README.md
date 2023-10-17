@@ -102,6 +102,8 @@ Handle the following custom conversion specifier:
 
 - R: Prints the rot13'ed string
 
+### 15. All the above options work well together.
+
 ## Contributors
 - [Claudia Ageha](https://github.com/Claudia-O-A) - Initial work
 - [Meshack Bwire](https://github.com/BM-Ghost) - Initial work
